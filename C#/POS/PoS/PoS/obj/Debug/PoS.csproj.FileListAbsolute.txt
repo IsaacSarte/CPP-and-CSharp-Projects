@@ -1,0 +1,40 @@
+C:\Users\marvin\source\repos\PoS\PoS\bin\Debug\PoS.exe.config
+C:\Users\marvin\source\repos\PoS\PoS\bin\Debug\PoS.exe
+C:\Users\marvin\source\repos\PoS\PoS\bin\Debug\PoS.pdb
+C:\Users\marvin\source\repos\PoS\PoS\obj\Debug\PoS.csprojAssemblyReference.cache
+C:\Users\marvin\source\repos\PoS\PoS\obj\Debug\PoS.Form1.resources
+C:\Users\marvin\source\repos\PoS\PoS\obj\Debug\PoS.Properties.Resources.resources
+C:\Users\marvin\source\repos\PoS\PoS\obj\Debug\PoS.csproj.GenerateResource.cache
+C:\Users\marvin\source\repos\PoS\PoS\obj\Debug\PoS.csproj.CoreCompileInputs.cache
+C:\Users\marvin\source\repos\PoS\PoS\obj\Debug\PoS.exe
+C:\Users\marvin\source\repos\PoS\PoS\obj\Debug\PoS.pdb
+C:\Users\luhsa\Desktop\PoS\PoS\bin\Debug\PoS.exe.config
+C:\Users\luhsa\Desktop\PoS\PoS\bin\Debug\PoS.exe
+C:\Users\luhsa\Desktop\PoS\PoS\bin\Debug\PoS.pdb
+C:\Users\luhsa\Desktop\PoS\PoS\obj\Debug\PoS.csprojAssemblyReference.cache
+C:\Users\luhsa\Desktop\PoS\PoS\obj\Debug\PoS.Form1.resources
+C:\Users\luhsa\Desktop\PoS\PoS\obj\Debug\PoS.Properties.Resources.resources
+C:\Users\luhsa\Desktop\PoS\PoS\obj\Debug\PoS.csproj.GenerateResource.cache
+C:\Users\luhsa\Desktop\PoS\PoS\obj\Debug\PoS.csproj.CoreCompileInputs.cache
+C:\Users\luhsa\Desktop\PoS\PoS\obj\Debug\PoS.exe
+C:\Users\luhsa\Desktop\PoS\PoS\obj\Debug\PoS.pdb
+F:\Grade 11\C#\PoS\PoS\bin\Debug\PoS.exe.config
+F:\Grade 11\C#\PoS\PoS\bin\Debug\PoS.exe
+F:\Grade 11\C#\PoS\PoS\bin\Debug\PoS.pdb
+F:\Grade 11\C#\PoS\PoS\obj\Debug\PoS.csprojAssemblyReference.cache
+F:\Grade 11\C#\PoS\PoS\obj\Debug\PoS.Properties.Resources.resources
+F:\Grade 11\C#\PoS\PoS\obj\Debug\PoS.csproj.GenerateResource.cache
+F:\Grade 11\C#\PoS\PoS\obj\Debug\PoS.csproj.CoreCompileInputs.cache
+F:\Grade 11\C#\PoS\PoS\obj\Debug\PoS.exe
+F:\Grade 11\C#\PoS\PoS\obj\Debug\PoS.pdb
+F:\Grade 11\C#\PoS\PoS\obj\Debug\PoS.RanchPCPOS.resources
+C:\Users\aizak\OneDrive\Desktop\PoS\PoS\bin\Debug\PoS.exe.config
+C:\Users\aizak\OneDrive\Desktop\PoS\PoS\bin\Debug\PoS.exe
+C:\Users\aizak\OneDrive\Desktop\PoS\PoS\bin\Debug\PoS.pdb
+C:\Users\aizak\OneDrive\Desktop\PoS\PoS\obj\Debug\PoS.csprojAssemblyReference.cache
+C:\Users\aizak\OneDrive\Desktop\PoS\PoS\obj\Debug\PoS.RanchPCPOS.resources
+C:\Users\aizak\OneDrive\Desktop\PoS\PoS\obj\Debug\PoS.Properties.Resources.resources
+C:\Users\aizak\OneDrive\Desktop\PoS\PoS\obj\Debug\PoS.csproj.GenerateResource.cache
+C:\Users\aizak\OneDrive\Desktop\PoS\PoS\obj\Debug\PoS.csproj.CoreCompileInputs.cache
+C:\Users\aizak\OneDrive\Desktop\PoS\PoS\obj\Debug\PoS.exe
+C:\Users\aizak\OneDrive\Desktop\PoS\PoS\obj\Debug\PoS.pdb
