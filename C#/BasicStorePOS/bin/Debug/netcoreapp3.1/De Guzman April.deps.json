@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "De Guzman April/1.0.0": {
+        "runtime": {
+          "De Guzman April.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "De Guzman April/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

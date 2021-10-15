@@ -1,0 +1,15 @@
+C:\Users\aizak\source\repos\De Guzman April\bin\Debug\netcoreapp3.1\De Guzman April.exe
+C:\Users\aizak\source\repos\De Guzman April\bin\Debug\netcoreapp3.1\De Guzman April.deps.json
+C:\Users\aizak\source\repos\De Guzman April\bin\Debug\netcoreapp3.1\De Guzman April.runtimeconfig.json
+C:\Users\aizak\source\repos\De Guzman April\bin\Debug\netcoreapp3.1\De Guzman April.runtimeconfig.dev.json
+C:\Users\aizak\source\repos\De Guzman April\bin\Debug\netcoreapp3.1\De Guzman April.dll
+C:\Users\aizak\source\repos\De Guzman April\bin\Debug\netcoreapp3.1\De Guzman April.pdb
+C:\Users\aizak\source\repos\De Guzman April\obj\Debug\netcoreapp3.1\De Guzman April.csprojAssemblyReference.cache
+C:\Users\aizak\source\repos\De Guzman April\obj\Debug\netcoreapp3.1\De_Guzman_April.Form1.resources
+C:\Users\aizak\source\repos\De Guzman April\obj\Debug\netcoreapp3.1\De Guzman April.csproj.GenerateResource.cache
+C:\Users\aizak\source\repos\De Guzman April\obj\Debug\netcoreapp3.1\De Guzman April.AssemblyInfoInputs.cache
+C:\Users\aizak\source\repos\De Guzman April\obj\Debug\netcoreapp3.1\De Guzman April.AssemblyInfo.cs
+C:\Users\aizak\source\repos\De Guzman April\obj\Debug\netcoreapp3.1\De Guzman April.csproj.CoreCompileInputs.cache
+C:\Users\aizak\source\repos\De Guzman April\obj\Debug\netcoreapp3.1\De Guzman April.dll
+C:\Users\aizak\source\repos\De Guzman April\obj\Debug\netcoreapp3.1\De Guzman April.pdb
+C:\Users\aizak\source\repos\De Guzman April\obj\Debug\netcoreapp3.1\De Guzman April.genruntimeconfig.cache
