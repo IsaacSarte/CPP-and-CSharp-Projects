@@ -1,0 +1,4 @@
+﻿  SD Calculator.cpp
+C:\Users\aizak\source\repos\SD Calculator\SD Calculator.cpp(122,56): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aizak\source\repos\SD Calculator\SD Calculator.cpp(140,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  SD Calculator.vcxproj -> C:\Users\aizak\source\repos\SD Calculator\Debug\SD Calculator.exe
