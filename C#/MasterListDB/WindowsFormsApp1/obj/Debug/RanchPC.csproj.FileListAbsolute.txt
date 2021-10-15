@@ -1,0 +1,15 @@
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Masterlist.resources
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\RanchPC.csproj.GenerateResource.cache
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\RanchPC.csproj.CoreCompileInputs.cache
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\RanchPC.csprojAssemblyReference.cache
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddCustomer.resources
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Edit.resources
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete.resources

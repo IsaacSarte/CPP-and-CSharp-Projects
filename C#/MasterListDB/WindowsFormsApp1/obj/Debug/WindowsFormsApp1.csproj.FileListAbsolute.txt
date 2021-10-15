@@ -1,0 +1,11 @@
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\aizak\OneDrive\Desktop\RanchPC\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Masterlist.resources
